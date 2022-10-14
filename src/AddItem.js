@@ -25,7 +25,7 @@ const AddItem = ({ newItem, setNewItem, handleSubmit }) => {
                 <FaPlus />
             </button>
         </form>
-    )
+    );
 }
 
-export default AddItem
+export default AddItem;
